@@ -8,3 +8,5 @@ Utiliser pour ce projet:
 	•	Requêtes HTTP - Ajax
 	•	API Google Map
 	•	Google Street View
+
+Projet de formation Développeur Web
