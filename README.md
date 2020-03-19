@@ -1,12 +1,15 @@
 # World_bucket_list
  
-L’application World Bucket List. Pour ceux qui ne le savent Bucket List c’est une liste de choses qu’on souhaite faire.
-Utiliser pour ce projet:
-	•	HTML5 / CSS3
-	•	Bootstrap
-	•	Javascript
-	•	Requêtes HTTP - Ajax
-	•	API Google Map
-	•	Google Street View
+The World Bucket List app.
+For those who do not know Bucket List this is a list of things we want to do.
+Web Developer Training Project
 
-Projet de formation Développeur Web
+Use for this project:
+
+- HTML5 / CSS3
+- Bootstrap
+- Javascript
+- Requêtes HTTP - Ajax
+- API Google Map
+- Google Street View
+
