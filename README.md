@@ -1,6 +1,6 @@
-# World_bucket_list
+# Dream world travel
  
-The World Bucket List app.
+The Dream world travel app.
 For those who do not know Bucket List this is a list of things we want to do.
 Web Developer Training Project
 
