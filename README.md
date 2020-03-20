@@ -1,10 +1,15 @@
-# World_bucket_list
+# Dream world travel
  
-L’application World Bucket List. Pour ceux qui ne le savent Bucket List c’est une liste de choses qu’on souhaite faire.
-Utiliser pour ce projet:
-	•	HTML5 / CSS3
-	•	Bootstrap
-	•	Javascript
-	•	Requêtes HTTP - Ajax
-	•	API Google Map
-	•	Google Street View
+The Dream world travel app.
+For those who do not know Bucket List this is a list of things we want to do.
+Web Developer Training Project
+
+Use for this project:
+
+- HTML5 / CSS3
+- Bootstrap
+- Javascript
+- Requêtes HTTP - Ajax
+- API Google Map
+- Google Street View
+
